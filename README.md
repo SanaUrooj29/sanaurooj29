@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sana Urooj</h1>
 <h3 align="center">A passionate Software Engineering Student at FAST NUCES</h3>
 
-- 🔭 I’m currently working on [Chic Store](https://github.com/SanaUrooj29/ChicStoreProject.git)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Spring Boot REST**
+- 🌱 I’m currently learning 
 
-- 🤝 I’m looking for help with [JWT token generation in postman](https://github.com/SanaUrooj29/ChicStoreProject.git)
+- 🤝 I’m looking for help with 
 
-- 💬 Ask me about **C++, java**
+- 💬 
 
 - 📫 How to reach me **sanaurooj049@gmail.com**
 
